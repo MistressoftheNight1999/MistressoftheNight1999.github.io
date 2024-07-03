@@ -26,6 +26,8 @@ body {
         cursor: pointer;
     }
 
-
+    .button1:hover {
+        background-color: #09007d;
+      }
 }
 
