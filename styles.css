@@ -14,7 +14,7 @@ body {
 
     .button1 {
         background-color: #35192d;
-        border: 2px solid #000000;
+        border: 3px solid #818181;
         border-radius: 12px;
         color: white;
         padding: 15px 32px;
@@ -27,7 +27,8 @@ body {
     }
 
     .button1:hover {
-        background-color: #09007d;
+        background-color: #05004f;
+      color: white;
       }
 }
 
