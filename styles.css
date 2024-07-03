@@ -1,0 +1,16 @@
+body {
+    background-color: darkslateblue;
+    color: white;
+
+    a:link {
+        color:antiquewhite
+    }
+
+
+    a:visited {
+        color:antiquewhite
+    }
+
+
+}
+
