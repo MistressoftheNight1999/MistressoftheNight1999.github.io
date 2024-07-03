@@ -9,7 +9,9 @@ body {
     a:visited {
         color:antiquewhite
     }
-
+    a:hover {
+        color: rgb(0, 2, 101);
+      }
 
 }
 
