@@ -13,8 +13,9 @@ body {
     }
 
     .button1 {
-        background-color: #04AA6D;
+        background-color: #35192d;
         border: none;
+        border-radius: 12px;
         color: white;
         padding: 15px 32px;
         text-align: center;
