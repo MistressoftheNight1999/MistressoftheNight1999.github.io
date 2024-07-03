@@ -1,11 +1,10 @@
 body {
-    background-color: darkslateblue;
+    background-color: rgb(10, 0, 78);
     color: white;
 
     a:link {
         color:antiquewhite
     }
-
 
     a:visited {
         color:antiquewhite
