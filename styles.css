@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(7, 0, 24);
-    color: white;
+    background-color: rgb(0, 0, 0);
+    color: #2fa7a3;
 
     a:link {
         color:antiquewhite
@@ -12,23 +12,27 @@ body {
         color: rgb(0, 2, 101);
     }
 
+.paddington1{
+    padding: 3rem;
+}
+
     .button1 {
-        background-color: #340025;
+        background-color: #d0600f;
+        color: #000000;
         border: 2px solid #000000;
         border-radius: 12px;
-        color: white;
-        padding: 15px 32px;
+        padding: 1rem 2rem;
         text-align: center;
         text-decoration: none;
         display: inline-block;
         font-size: 20px;
-        margin: 4px 2px;
+        margin: 1rem 1rem;
         cursor: pointer;
     }
 
     .button1:hover {
-        background-color: #05004f;
-      color: white;
+        background-color: #088d3b;
+      color: #000000;
       box-shadow: 0 12px 16px 0 rgba(136,136,136,0.24),0 17px 50px 0 rgba(136,136,136,0.19);
       }
 }
